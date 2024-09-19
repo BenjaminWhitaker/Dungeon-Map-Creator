@@ -1,0 +1,4 @@
+To do list:
+1. Fix the graphic glitches using texture padding
+2. Fix room transitions and make a inbetween room transitions
+3. Start projectile shooting with head movement
